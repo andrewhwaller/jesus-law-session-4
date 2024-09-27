@@ -1,7 +1,7 @@
 ---
 theme: default
 favicon: /favicon.ico
-background: https://upload.wikimedia.org/wikipedia/commons/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg
+background: leper-scene.jpg
 class: text-center
 lineNumbers: false
 info: |
@@ -13,7 +13,7 @@ presenter: true
 drawings:
   persist: false
 transition: slide-left
-title: Title - Subtitle
+title: Jesus and the Law of Israel - Session 4
 mdc: true
 download: true
 export:
@@ -26,72 +26,62 @@ fonts:
   provider: google
 ---
 
-# Title
+# Jesus and the Law of Israel
 
-## Subtitle
-
-<!-- This is only a sample of different slide layouts and does not contain the full content for this lecture. -->
+## Session 4: Can The Leper Change Our Thoughts?
 
 ---
-layout: statement
+layout: default 
 ---
 
-# Jesus’s mission of restoration is inextricably bound up with Israel’s destiny.
+# Ritual impurity
+1. Unavoidable, sometimes natural, and part of everyday life.
+2. Can be contracted from objects or substances.
+3. Can be transmitted to others directly and indirectly.
+4. Removed by time, ritual washing, and sometimes sacrifice.
+5. ***Not*** sinful! It is not a sin to become ritually impure.
 
----
-layout: statement
----
+<br/>
 
-<h1 v-mark="{ color: '#f72f47', type: 'strike-through', strokeWidth: 5 }">What is Israel’s messiah meant to do?</h1>
-<h1 v-click>How will God restore his people?</h1>
-
----
-layout: quote
----
-
-# 2 Sam 7:5–16
-“Go and tell my servant David, ‘Thus says the Lord: … When your days are fulfilled and you lie down with your fathers, I will raise up your offspring after you, who shall come from your body, and I will establish his kingdom….
-And your house and your kingdom shall be made sure forever before me.
-Your throne shall be established forever.’”
-
-# Psalm 89:29–35
-“I will establish [David’s] offspring forever and his throne as the days of the heavens.
-If his children forsake my law… then I will punish their transgression with the rod and their iniquity with stripes, but I will not remove from him my steadfast love or be false to my faithfulness.
-I will not violate my covenant or alter the word that went forth from my lips.
-Once for all I have sworn by my holiness; I will not lie to David.”
+# Moral impurity
+1. Avoidable.
+2. Caused by grave sin, but cannot be spread through social contagion.
+3. Pollutes the land of Israel.
+4. Typically can be removed via atonement or punishment, but sometimes irremovable.
+5. ***Absolutely*** sinful.
 
 ---
 layout: quote
 ---
 
-Jer 31:31–34: “The days are coming,” declares the Lord, “when I will make a new covenant with the people of Israel and with the people of Judah.
-It will not be like the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt... This is the covenant I will make with the people of Israel after that time,” declares the Lord.
-“***I will put my law in their minds and write it on their hearts.***
-I will be their God, and they will be my people.
-***No longer will they teach their neighbor***, or say to one another, ‘Know the Lord,’ because they will all know me, from the least of them to the greatest,” declares the Lord.
-“For I will forgive their wickedness and will remember their sins no more.”
-
-Jer 33:14–16: “‘The days are coming,’ declares the Lord, ‘when I will fulfill the good promise I made to the people of Israel and Judah. In those days and at that time I will make a righteous Branch sprout from David’s line; he will do what is just and right in the land. In those days Judah will be saved and Jerusalem will live in safety. This is the name by which it will be called: The Lord Our Righteous Savior.’”
+# Luke 5:12--14
+“Once, when he was in one of the cities, there was a man covered with \[*lepra*\]. When he saw Jesus, he bowed with his face to the ground and begged him, ‘Lord, if you choose, you can make me clean.’ Then Jesus stretched out his hand, touched him, and said, ‘I do choose. Be made clean.’ Immediately the \[*lepra*\] left him. And he ordered him to tell no one. ‘Go,’ he said, ‘and show yourself to the priest, and, as Moses commanded, make an offering for your cleansing, for a testimony to them.’”
 
 ---
 layout: statement
 ---
 
-# Ezekiel 37
+# [Are lepers outcasts?](https://www.bbc.co.uk/bitesize/guides/zhmhcqt/revision/5)
 
 ---
 layout: gallery-frame
-image: https://upload.wikimedia.org/wikipedia/commons/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg
+image: leper-scene.jpg
 backgroundSize: contain
-work: The Vision of The Valley of The Dry Bones
-metadata: "Gustave Doré, 1866"
+work: The leper scene from Ben Hur
+metadata: "From a production at the Grand Opera House, Seattle, 1903"
 ---
 
 ---
-layout: statement
+layout: gallery-full 
+image: ben-hur-1.jpg
+backgroundSize: contain
 ---
 
-# Ezekiel 37: Israel is in need of *resurrection*.
+---
+layout: gallery-full 
+image: ben-hur-2.jpg
+backgroundSize: contain 
+---
 
 ---
 layout: qr-code
