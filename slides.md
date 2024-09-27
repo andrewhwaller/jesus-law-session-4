@@ -69,8 +69,8 @@ layout: default
 * In healing lepers, *especially via touch*, Jesus contravenes the law and prioritizes compassion over strict legal observance.
 
 <!-- 
-* Hat tip to Logan Williams for this example of common lepra misconceptions 
-* These are four common misconceptions about lepra
+* Hat tip to Logan Williams for this example of common lepra misconceptions.
+* These are four common misconceptions about lepra that are not supported by historical evidence.
 -->
 
 ---
