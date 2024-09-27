@@ -58,10 +58,20 @@ layout: quote
 “Once, when he was in one of the cities, there was a man covered with \[*lepra*\]. When he saw Jesus, he bowed with his face to the ground and begged him, ‘Lord, if you choose, you can make me clean.’ Then Jesus stretched out his hand, touched him, and said, ‘I do choose. Be made clean.’ Immediately the \[*lepra*\] left him. And he ordered him to tell no one. ‘Go,’ he said, ‘and show yourself to the priest, and, as Moses commanded, make an offering for your cleansing, for a testimony to them.’”
 
 ---
-layout: statement
+layout: default
 ---
 
-# [Are lepers outcasts?](https://www.bbc.co.uk/bitesize/guides/zhmhcqt/revision/5)
+# [Were lepers untouchable outcasts?](https://www.bbc.co.uk/bitesize/guides/zhmhcqt/revision/5)
+
+* Leprosy (modern-day *Hansen's disease*) was an incurable, disfiguring disease.
+* Lepers were banished from public life and were forced to live outside cities and towns.
+* Leprosy was contagious and so contact with others was forbidden.
+* In healing lepers, *especially via touch*, Jesus contravenes the law and prioritizes compassion over strict legal observance.
+
+<!-- 
+* Hat tip to Logan Williams for this example of common lepra misconceptions 
+* These are four common misconceptions about lepra
+-->
 
 ---
 layout: gallery-frame
@@ -82,6 +92,17 @@ layout: gallery-full
 image: ben-hur-2.jpg
 backgroundSize: contain 
 ---
+
+---
+layout: quote
+---
+# Leviticus 13:2--46
+“‘When a person has on the skin of his body a swelling or an eruption or a spot, and it turns into \[*lepra*\], he shall be brought to Aaron the priest or to one of his sons the priests. The priest shall examine...; after the priest has examined him he shall pronounce him \[impure\]\.\.\.\. The person who has \[*lepra*\] shall wear torn clothes and let the hair of his head be disheveled; and he shall cover his upper lip and cry out, “\[impure, impure\].” He shall remain \[impure\] as long as he has the disease; he is \[impure\]. He shall live alone; his dwelling shall be *outside the camp*.’”
+
+## Some important things to note: 
+* Priests identify *lepra* by visual appearance, *not medical situation*; *lepra* is that which has the appearance of *death*.
+* *Lepra* transmits ritual impurity in basically the same way as a corpse.
+* The geography of separation involves *the wilderness camp*.
 
 ---
 layout: qr-code
