@@ -159,7 +159,7 @@ layout: default
 
 # Five common (and incorrect!) assertions about lepers
 * Leprosy (modern-day *Hansen's disease*) was an incurable and severely disfiguring disease.
-    * No. *Lepra* refers to non-fatal skin conditions.
+    * No. *Lepra* refers to non-fatal and seemingly temporary skin conditions.
 * Leprosy was contagious and so contact with others was forbidden.
     * No. It is not a sin to become ritually impure through contact with *lepra*.
 * Lepers were banished from public life and were forced to live outside cities and towns.
