@@ -197,7 +197,6 @@ layout: statement
 
 ---
 layout: qr-code
-url: https://andrewhwaller.github.io/slidev-template
 ---
 # QR code for this presentation
 ---
