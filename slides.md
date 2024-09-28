@@ -81,7 +81,7 @@ layout: default
 layout: fact 
 ---
 
-# So... where did these misconceptions come from?
+# Where did these misconceptions come from?
 
 ---
 layout: gallery-frame
@@ -121,10 +121,16 @@ layout: quote
 # Leviticus 13:2--46
 “‘When a person has on the skin of his body a swelling or an eruption or a spot, and it turns into \[*lepra*\], he shall be brought to Aaron the priest or to one of his sons the priests. The priest shall examine...; after the priest has examined him he shall pronounce him \[impure\]\.\.\.\. The person who has \[*lepra*\] shall wear torn clothes and let the hair of his head be disheveled; and he shall cover his upper lip and cry out, “\[impure, impure\].” He shall remain \[impure\] as long as he has the disease; he is \[impure\]. He shall live alone; his dwelling shall be *outside the camp*.’”
 
-## Three things to note: 
-* Priests identify *lepra* by visual appearance, *not medical situation*; *lepra* is that which has the appearance of *death*.
-* *Lepra* transmits ritual impurity in basically the same way as a corpse.
-* The geography of separation involves *the wilderness camp*.
+# Numbers 5:1--3
+“The <sc>Lord</sc> spoke to Moses, saying: ‘Command the Israelites to put out of the camp everyone who is leprous, or has a discharge, and everyone who is unclean through contact with a corpse; you shall put out both male and female, putting them outside the camp; they must not defile their camp, where I dwell among them.’”
+
+<!--
+
+* What does biblical law say? Three things to note:
+    * Priests identify *lepra* by visual appearance, *not medical situation*; *lepra* is that which has the appearance of *death*.
+    * *Lepra* transmits ritual impurity in basically the same way as a corpse; discharge, *lepra*, and corpse impurity are addressed as one category.
+    * The geography of separation involves *the wilderness camp*.
+-->
 
 ---
 layout: quote
