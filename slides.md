@@ -61,17 +61,26 @@ layout: quote
 layout: default
 ---
 
-# [Were lepers untouchable outcasts?](https://www.bbc.co.uk/bitesize/guides/zhmhcqt/revision/5)
-
-* Leprosy (modern-day *Hansen's disease*) was an incurable, disfiguring disease.
+# Four common (and incorrect!) assertions about lepers
+* Leprosy (modern-day *Hansen's disease*) was an incurable and severely disfiguring disease.
 * Lepers were banished from public life and were forced to live outside cities and towns.
 * Leprosy was contagious and so contact with others was forbidden.
 * In healing lepers, *especially via touch*, Jesus contravenes the law and prioritizes compassion over strict legal observance.
 
 <!-- 
-* Hat tip to Logan Williams for this example of common lepra misconceptions.
+* Hat tip to Logan Williams for this example of common lepra misconceptions: [GCSE, *Jesus heals ten men with a skin disease*](https://www.bbc.co.uk/bitesize/guides/zhmhcqt/revision/5)
 * These are four common misconceptions about lepra that are not supported by historical evidence.
+* *Lepra* does not refer to Hansen's disease. In biblical law, *lepra* refers to a variety of skin conditions that do not precisely map onto known pathologies. Close analogues would be psoriasis, eczema, or some form of dermatitis.
+* We have no evidence that people with *lepra* were uniformly excluded from society.
+* As we'll see, biblical law does not forbid contact with people with *lepra* and the various descriptions in biblical law are not concerned with the possibility of contagion.
+* Jesus's touching of lepers does not in any way violate or contravene biblical law.
 -->
+
+---
+layout: fact 
+---
+
+# So... where did these misconceptions come from?
 
 ---
 layout: gallery-frame
@@ -94,15 +103,80 @@ backgroundSize: contain
 ---
 
 ---
+layout: gallery-full 
+image: ben-hur-quote.png
+backgroundSize: contain 
+---
+
+<!-- 
+* Wallace seems to be over-interpreting b. Ned. 64b, here. "As if there were dead" need not be read as some sort of "living death." Re: *lepra*, the reference is to Miriam's *lepra* in Num. 12:12, which sees Aaron reacting to her skin's death-like condition.
+* Additionally, the idea of *lepra* as divine punishment doesn't have an explicit presence in biblical law.
+-->
+
+---
 layout: quote
 ---
+
 # Leviticus 13:2--46
 “‘When a person has on the skin of his body a swelling or an eruption or a spot, and it turns into \[*lepra*\], he shall be brought to Aaron the priest or to one of his sons the priests. The priest shall examine...; after the priest has examined him he shall pronounce him \[impure\]\.\.\.\. The person who has \[*lepra*\] shall wear torn clothes and let the hair of his head be disheveled; and he shall cover his upper lip and cry out, “\[impure, impure\].” He shall remain \[impure\] as long as he has the disease; he is \[impure\]. He shall live alone; his dwelling shall be *outside the camp*.’”
 
-## Some important things to note: 
+## Three things to note: 
 * Priests identify *lepra* by visual appearance, *not medical situation*; *lepra* is that which has the appearance of *death*.
 * *Lepra* transmits ritual impurity in basically the same way as a corpse.
 * The geography of separation involves *the wilderness camp*.
+
+---
+layout: quote
+---
+
+# *Ant*. 3.262--264
+“Similarly, it is prescribed by law for those who have buried the dead to associate with the community after \[seven days\]\.\.\.\. \[Moses\] banished lepers completely from the city—associating with no one and in no way differing from \[**the previously stated situation of**\] a corpse.”
+
+# Sifre Num. 1:9
+“There are three camps, the camp of Israel, the camp of the Levitical priests, and the camp of the Presence of God. From the gate of Jerusalem to the Temple mount is the camp of Israel, from the gate of the Temple mount to the Temple courtyard is the camp of the Levitical priesthood, and from the gate of the courtyard and inward is the camp of the Presence of God.”
+
+## Two things to note:
+* Exclusion of *lepra* is not permanent.
+* Exclusion primarily applies to holy spaces, i.e., Jerusalem or possibly other walled cities.
+
+<!--
+* This rabbinic text describes how the situation of the wilderness camp was mapped onto the post-conquest land of Israel.
+* This view wasn't universal, since the Qumran sect, for example, viewed their community as a replacement for Jerusalem and thus subject to the same regulations.
+* Further, m. Kelim 1:7 describes "walled cities" as subject to exclusion for those with *lepra* and corpses, but this would have been specific to specific cities that had walls prior to the conquest.
+* None of these situations apply to Jesus's interactions with lepers.
+-->
+
+---
+layout: quote
+---
+
+# Luke 5:12--14
+“Once, when he was in one of the cities, there was a man covered with \[*lepra*\]. When he saw Jesus, he bowed with his face to the ground and begged him, ‘Lord, if you choose, you can make me clean.’ Then Jesus stretched out his hand, touched him, and said, ‘I do choose. Be made clean.’ Immediately the \[*lepra*\] left him. And he ordered him to tell no one. ‘Go,’ he said, ‘and show yourself to the priest, and, as Moses commanded, make an offering for your cleansing, for a testimony to them.’”
+
+<!--
+* Note that Jesus is describes as being "in one of the cities" in Luke 5:12.
+    * The idea that a man with *lepra* is approaching Jesus inside a city suggests that this man hasn't been ostracized from the city.
+* The man's actual request is με καθαρίσαι, not to be "healed." The request is centered on purity rather than relief of a physical ailment.
+* Jesus still tells the man to make the offering that is required in biblical law, i.e., the priest still has to assess the man's condition and determine his ritual status.
+-->
+
+---
+layout: statement 
+---
+
+# Jesus does not...
+## violate biblical law
+## address the problem of cruel social ostracism 
+## prioritize compassion over strict legal observance
+
+---
+layout: statement
+---
+
+# Jesus does...
+## show compassion in helping the man
+## eradicate a source of impurity by defeating the forces of death
+## command the man to observe the law of Moses
 
 ---
 layout: qr-code
