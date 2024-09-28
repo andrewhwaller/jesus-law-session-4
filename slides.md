@@ -61,11 +61,12 @@ layout: quote
 layout: default
 ---
 
-# Four common (and incorrect!) assertions about lepers
+# Five common (and incorrect!) assertions about lepers
 * Leprosy (modern-day *Hansen's disease*) was an incurable and severely disfiguring disease.
-* Lepers were banished from public life and were forced to live outside cities and towns.
 * Leprosy was contagious and so contact with others was forbidden.
-* In healing lepers, *especially via touch*, Jesus contravenes the law and prioritizes compassion over strict legal observance.
+* Lepers were banished from public life and were forced to live outside cities and towns.
+* Lepers could not participate in worship or religious life.
+* Exclusion was permanent unless certified by a priest.
 
 <!-- 
 * Hat tip to Logan Williams for this example of common lepra misconceptions: [GCSE, *Jesus heals ten men with a skin disease*](https://www.bbc.co.uk/bitesize/guides/zhmhcqt/revision/5)
@@ -145,6 +146,22 @@ layout: quote
 * Further, m. Kelim 1:7 describes "walled cities" as subject to exclusion for those with *lepra* and corpses, but this would have been specific to specific cities that had walls prior to the conquest.
 * None of these situations apply to Jesus's interactions with lepers.
 -->
+
+---
+layout: default
+---
+
+# Five common (and incorrect!) assertions about lepers
+* Leprosy (modern-day *Hansen's disease*) was an incurable and severely disfiguring disease.
+    * No. *Lepra* refers to non-fatal skin conditions.
+* Leprosy was contagious and so contact with others was forbidden.
+    * No. It is not a sin to become ritually impure through contact with *lepra*.
+* Lepers were banished from public life and were forced to live outside cities and towns.
+    * No. For many first century Jews, “the camp” refers to Jerusalem.
+* Lepers could not participate in worship or religious life.
+    * No. Contact with the temple was forbidden, but synagogues are not holy spaces.
+* Exclusion was permanent unless certified by a priest.
+    * No. Again, Jerusalem is primarily in view re: exclusion.
 
 ---
 layout: quote
