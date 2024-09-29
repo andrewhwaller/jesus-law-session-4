@@ -149,7 +149,7 @@ layout: quote
 <!--
 * This rabbinic text describes how the situation of the wilderness camp was mapped onto the post-conquest land of Israel.
 * This view wasn't universal, since the Qumran sect, for example, viewed their community as a replacement for Jerusalem and thus subject to the same regulations.
-* Further, m. Kelim 1:7 describes "walled cities" as subject to exclusion for those with *lepra* and corpses, but this would have been specific to specific cities that had walls prior to the conquest.
+* Further, m. Kelim 1:7 describes "walled cities" as subject to exclusion for those with *lepra* and corpses, but this would pertain to specific cities that had walls prior to the conquest.
 * None of these situations apply to Jesus's interactions with lepers.
 -->
 
